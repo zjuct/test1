@@ -2,11 +2,7 @@ fsasdf
 fsasdf
 fsasdfstring
 fsasdfstring
-fsasdfstring
-fsasdfstring
-fsasdfstring
-fsasdfstring
-fsasdfstring
+
 #inclustringde<iostream>
 #include<iostream>
 #include<iostream>
