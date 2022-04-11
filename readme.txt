@@ -2,13 +2,6 @@ fsasdf
 fsasdf
 fsasdfstring
 fsasdfstring
-
-#inclustringde<iostream>
-#include<iostream>
-#include<iostream>
-#include<iostream>
-#include<iostream>
-#include<iostream>
 fsasdf
 fsasdf
 fsasdf
